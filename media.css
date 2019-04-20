@@ -1,0 +1,126 @@
+@media screen and (max-width:768px)
+
+
+{
+  .nav_p_1
+  {
+    font-size: 2vmax;
+  }
+
+.first_block_h1, .first_block_p, .contact_us_button, .contact_us_button_1, .second_block_h1, .second_block_p, .first_block_p
+{
+  text-align: center;
+  display: flex;
+  justify-content:center;
+  margin: auto;
+  margin-top: 20px;
+
+
+}
+.qwerty
+{
+  font-size: 3vw;
+}
+.list_1
+{
+  font-size: 2vw;
+}
+.img_block
+{
+  width: 75vw;
+  margin: auto;
+  margin-top: 20px;
+
+}
+.contact_us_button
+{
+  width: 30vw;
+}
+.contact_us_button_1
+{
+  font-size: 2vw;
+}
+.second_block_p, .first_block_p
+{
+  /* Style for "Lorem ipsu" */
+
+color: #000000;
+font-family: inherit;
+font-size: 2vw;
+font-weight: 400;
+line-height: 28px;
+word-wrap: break-word;
+}
+.nav_p_2
+{
+  font-size: 2vw;
+}
+.center_fouth
+{
+  width: 100vw;
+}
+.line_two
+{
+  width: 60vw;
+  margin: auto;
+  margin-top: 40px;
+}
+.img_block_main
+{
+display: flex;
+justify-content: center;
+}
+.five_block
+{
+  text-align: center;
+}
+.qqq
+{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.five_block_p, .list_1
+{
+font-size: 3vw;
+}
+.five_block_h1
+{
+  font-size: 6vw;
+}
+.qqq1
+{
+  display: flex;
+  justify-content: center;
+}
+.form_pos
+{
+  display: flex;
+  justify-content: center;
+
+}
+.text
+{
+display: flex;
+justify-content: center;
+
+}
+.back
+{
+width: 100vw;
+padding: 0;
+margin: 0;
+
+}
+
+.contact_q
+{
+  margin-left: 30px;
+}
+.center_fouth
+{
+  font-size: 4vw;
+  padding-right: 40px;
+}
+
+}

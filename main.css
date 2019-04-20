@@ -1,0 +1,497 @@
+body
+{
+  font-family: 'Roboto', sans-serif;
+  overflow-x: hidden !important;
+}
+p
+{
+  margin: 0 !important;
+}
+.margin_padding
+{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+ .nav_p
+{
+  /* Style for "Rectangle" */
+width: 100px;
+height: 89px;
+
+list-style: none;
+padding: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+transition: 0.6s;
+
+}
+.nav_p_1
+{
+  /* Style for "home" */
+
+height: 12px;
+color: #e0e0e0;
+  font-family: inherit;
+font-size: 1vw;
+
+font-weight: 700;
+line-height: 24px;
+text-transform: uppercase;
+/* Text style for "h, ome" */
+letter-spacing: 0.49px;
+}
+.nav_p:hover
+{
+  background-color: #ff3f40;
+  transition: 0.6s;
+}
+.menu_background
+{
+  background-color: black;
+
+}
+.first_block_h1
+{
+  font-size: 5vw;
+    font-family: inherit;
+    /* Style for "our strong" */
+
+
+
+color: #000000;
+
+
+font-weight: 400;
+line-height: 72px;
+text-transform: uppercase;
+/* Text style for "o, ur stro" */
+letter-spacing: 1.5px;
+/* Text style for "organaisat" */
+letter-spacing: 6px;
+
+}
+.first_block_p
+{
+  /* Style for "Lorem ipsu" */
+
+opacity: 0.7;
+color: #000000;
+font-family: inherit;
+font-size: 1vw;
+font-weight: 400;
+line-height: 28px;
+margin-top: 40px;
+word-wrap: normal;
+}
+.row, .container-fluid {
+  margin: 0 !important;
+  padding-left: 0!important;
+  padding-right:  0!important;
+}
+.img_block
+{
+  overflow: hidden;
+  box-shadow: 0 0 55px 2px black;
+  width: 37vw;
+  margin-bottom: 40px;
+  margin-top: 40px;
+
+
+}
+
+.first_img
+{
+  max-width: 100%;
+   transition: 0.6s;
+
+}
+
+
+.contact_us_button_1
+{
+  /* Style for "Contact Us" */
+
+color: #ffffff;
+font-family: inherit;
+font-size: 1.2vw;
+font-weight: 700;
+line-height: 34.06px;
+/* Text style for "C, ontact" */
+letter-spacing: 0.32px;
+}
+.background_second
+{
+  background-color: #f6f2f2;
+}
+
+.contact_us_button
+{
+    background: #DC143C;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#DC143C), to(#ff2d2d));
+    background: -moz-linear-gradient(#DC143C, #ff2d2d);
+    background: linear-gradient(#DC143C, #ff2d2d);
+    border: solid 1px #ff2d2d;
+    border-bottom: solid 3px #ff2d2d;
+    box-shadow: inset 0 0 0 1px #DC143C;
+    color: #fff;
+    text-shadow: 0 1px 0 #DC143C;
+    /* Style for "Rectangle" */
+  width: 15vw;
+  height: 55px;
+  border-radius: 5px;
+  background-color: #ff2d2d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;}
+    .contact_us_button:hover
+    {
+   background: #ff2d2d;
+   background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ff2d2d), to(#DC143C));
+   background: -moz-linear-gradient(#ff2d2d, #DC143C);
+   background: linear-gradient(#ff2d2d, #DC143C);
+   border: solid 1px #ff2d2d;
+   border-bottom: solid 3px #ff2d2d;
+   box-shadow: inset 0 0 0 1px #DC143C;
+  }
+  .second_block_h1
+  {
+    /* Style for "do you kno" */
+
+opacity: 0.8;
+color: #000000;
+font-family: inherit;
+font-size: 3vw;
+font-weight: 700;
+line-height: 55px;
+text-transform: uppercase;
+/* Text style for "do you kno" */
+letter-spacing: 0.42px;
+word-wrap: break-word;
+
+  }
+  .second_block_p
+  {
+    /* Style for "Lorem ipsu" */
+
+color: #000000;
+font-family: inherit;
+font-size: 1vw;
+font-weight: 400;
+line-height: 28px;
+word-wrap: break-word;
+  }
+
+.logo
+{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.padding_second
+{
+  padding: 80px 0px 100px 0;
+}
+.line
+{
+  /* Style for "Rectangle" */
+  width: 90vw;
+  height: 2px;
+  background-color: #ececec;
+  margin: auto;
+}
+.third_block_h1
+{
+  /* Style for "feature pr" */
+
+opacity: 0.8;
+color: #000000;
+font-family: inherit;
+font-size: 3vw;
+font-weight: 700;
+text-transform: uppercase;
+/* Text style for "feature pr" */
+letter-spacing: 0.38px;
+text-align: center;
+padding-top: 80px;
+}
+.third_block_p
+{
+  /* Style for "Lorem ipsu" */
+
+opacity: 0.7;
+color: #000000;
+font-family: inherit;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+padding-top: 10px;
+
+
+
+}
+.line_one
+{
+  /* Style for "Rectangle" */
+width: 132px;
+height: 3px;
+background-color: #ff2d2d;
+margin: auto;
+margin-top: 20px;
+}
+.row_nav
+{
+  display: flex;
+  justify-content: center;
+}
+.nav_p_2
+{
+  /* Style for "mock-up" */
+
+opacity: 0.7;
+color: #000000;
+font-family: inherit;
+font-size: 1.25vw;
+font-weight: 400;
+line-height: 24px;
+text-transform: uppercase;
+/* Text style for "m, ock-up" */
+letter-spacing: 0.22px;
+list-style: none;
+text-align: center;
+padding-top: 20px;
+}
+
+
+.table_1
+{
+  max-width: 100%;
+  padding: 5px;
+  box-shadow: 0 0 5px 2px black;
+
+}
+.padding_absolute
+{
+ padding-top: 50px;
+}
+.position
+{
+
+
+display: flex;
+justify-content: center;
+padding-bottom: 25px;
+
+}
+.fourth_block_p
+{
+  /* Style for "Meet our t" */
+
+opacity: 0.8;
+color: #000000;
+font-family: inherit;
+font-size: 3vw;
+font-weight: 700;
+text-transform: uppercase;
+/* Text style for "Meet our t" */
+letter-spacing: 0.38px;
+
+padding-top: 80px;
+
+padding-left: 10px;
+}
+.fourth_block_p_2
+{
+  /* Style for "Lorem ipsu" */
+
+opacity: 0.7;
+color: #000000;
+font-family: inherit;
+font-size: 1.20vw;
+font-weight: 400;
+line-height: 28px;
+padding-left: 10px;
+padding-top: 20px;
+}
+.center_fouth
+{
+
+padding-top: 80px;
+font-size: 2.5vw;
+letter-spacing: 1px;
+font-weight: 900;
+padding-left: 10px;
+}
+.line_two
+{
+  /* Style for "Rectangle" */
+width: 10vw;
+height: 3px;
+background-color: #ff2d2d;
+margin-left: 25px;
+margin-top: 30px;
+
+}
+.five_block_h1
+{
+  /* Style for "mark waugh" */
+
+opacity: 0.8;
+color: #000000;
+font-family: inherit;
+font-size: 2vw;
+font-weight: 400;
+text-transform: uppercase;
+/* Text style for "m, ark wau" */
+letter-spacing: 0.28px;
+padding-left: 12px;
+padding-top: 10px;
+}
+.five_block_p
+{
+  /* Style for "Lorem ipsu" */
+
+opacity: 0.7;
+color: #000000;
+font-family: inherit;
+font-size: 1.25vw;
+font-weight: 400;
+line-height: 28px;
+
+padding-top: 10px;
+
+}
+.list_1
+{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  padding: 0;
+  /* Style for "Twiter" */
+
+opacity: 0.8;
+color: #000000;
+font-family: "Open Sans";
+font-size: 1.25vw;
+font-style: italic;
+line-height: 24px;
+/* Text style for "T, witer" */
+letter-spacing: 0.9px;
+padding-top: 10px;
+}
+.img_list
+{
+  display: flex;
+
+  padding: 0;
+  list-style: none;
+  padding-top: 30px;
+  max-width: 100%;
+
+
+
+}
+.img_list_el
+{
+  padding: 5px;
+  max-width: 100%;
+  box-shadow: 0 0 5px 2px black;
+}
+.sixth_block_h1
+{
+  /* Style for "Design tip" */
+
+
+opacity: 0.8;
+color: #ffffff;
+font-family: "Open Sans";
+font-size: 3vw;
+font-weight: 700;
+line-height: 24px;
+/* Text style for "Design tip" */
+letter-spacing: 1.05px;
+text-align: center;
+
+}
+form
+{
+  display: flex;
+  margin: auto;
+  padding-top: 60px;
+
+}
+.btn_1
+{
+  /* Style for "Rounded Re" */
+width: 10vw;
+height: 8vh;
+background-color: #ff2d2d;
+/* Style for "subscribe" */
+
+color: #ffffff;
+font-family: inherit;
+font-size: 0.9vw;
+font-weight: 700;
+line-height: 34.06px;
+text-transform: uppercase;
+/* Text style for "s, ubscrib" */
+letter-spacing: 0.32px;
+border-radius: 7px;
+
+}
+textarea
+{
+  width: 29vw;
+  margin-left: 15px;
+  margin-top: 25px;
+  border-radius: 10px;
+  resize: none;
+}
+textarea:focus
+{
+  transition: 0.3s;
+  box-shadow: 0 0 0 4px #CDE5F0;
+  border-radius: 10px;
+
+
+}
+.btn_2
+{
+  background-color: #ff3b3b;
+}
+.btn_2:focus
+{
+  background-color: #ff3b3b;
+}
+.btn_2:hover
+{
+  background-color: #ff3b3b !important;
+}
+.btn_2:active
+{
+  background-color: #ff3b3b;
+}
+.email_1, .tel, .seventh_block_p, .seventh_block_h1
+{
+  padding-top: 20px;
+  text-align: center;
+  /* Style for "contact in" */
+
+opacity: 0.8;
+color: white;
+font-family: inherit;
+font-size: 18px;
+font-weight: 700;
+line-height: 34.06px;
+text-transform: uppercase;
+/* Text style for "c, ontact" */
+letter-spacing: 0.32px;
+background-color: black;
+
+}
+.class_color
+{
+  color: #b8b8b8;
+}
